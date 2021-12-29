@@ -23,7 +23,7 @@ E.Encode the target variable
 The target variable contains different values and when utilizing neural networks to represent multi-class classification problems, it's best to reshape the output attribute from a vector containing values for each class value to a matrix containing a boolean for each class value and
 whether a specific instance has that class value. This is called one hot encoding
 
-##IV. Classifiers
+## Classifiers
 Classifier algorithm can be used to anticipate and understand what qualities relate to a given class or target by mapping input data to a target variable using decision rules.
 A. Decsion Tree Classifier
 A decision tree is a tree-like structure in which internal nodes represent attributes, branches represent decision rules, and leaf nodes indicate outcomes. This is accomplished by dividing the data into distinct partitions based on an attribute selection measure, in this case the Gini index.
