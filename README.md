@@ -7,7 +7,6 @@ The objective of this project is to analyze the dataset and build a prediction m
 Steel is one of the most essential construction materials in today's world. Steel buildings are resistant to natural and man-made wear, making them commonplace all over the world. Detecting flaws will aid in the more efficient manufacture of steel. The dataset used in this project is taken by from Semeion, research center of sciences of communication and the dataset is a multi-class classification type of dataset. According to the research report, Semeion was commissioned for this assignment by the Centro Sviluppo Materiali (Italy), hence data on the nature of the 27 indicators used as Input vectors or the types of the 6 defect classes are unavailable.
 
 ## DataSet 
-II.DATASET DESCRIPTION
 The semeions, research center of the sciences of communication provides the dataset which consist of total 34 columns and 1941 records. From the 34 columns 27 are considered as input features and 7 are considered as output paramters or defect type features.
 
 ## Data Preprocessing
